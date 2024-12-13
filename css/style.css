@@ -32,6 +32,7 @@ footer ul {
     justify-content: flex-end;
     align-items: center;
     flex: 1;
+    margin-bottom: 0;
 }
 header li,
 footer li {
@@ -53,6 +54,7 @@ footer nav a {
 header nav a:hover,
 footer nav a:hover {
     border-bottom: 1px solid #ffffff;
+    color: #ffffff;
 }
 .top-image {
     width: 100%;
